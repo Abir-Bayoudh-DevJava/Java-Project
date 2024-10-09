@@ -1,0 +1,10 @@
+package garde_fruits;
+
+public class Garde_fruits {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
